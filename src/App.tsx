@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { faker } from "@faker-js/faker";
+import { faker } from '@faker-js/faker';
 import type { ArchiveType, FormAddPostType, HeaderType, MainType, PostType, ResultType, SearchPostsType } from "./types/types";
 
 function createRandomPost() {
